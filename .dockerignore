@@ -1,1 +1,16 @@
 node_modules
+.editorconfig
+.git
+AUTHORS.md
+CONTRIBUTING.md
+LICENSE
+Makefile
+NOTICE
+README.md
+arm/
+powerpc/
+mips/
+Dockerfile
+*docker-compose*
+data
+npm-debug.log
