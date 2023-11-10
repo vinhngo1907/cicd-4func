@@ -1,6 +1,6 @@
-# learn-cicd-starter (Notely)
+# cicd-starter 
 
-This repo contains the starter code for the "Notely" application for the "Learn CICD".
+This repo contains the starter code for the "V's projects" application for the "Run CICD".
 
 ## Local Development
 
